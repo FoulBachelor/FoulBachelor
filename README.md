@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FoulBachelor
+- 👀 I’m interested in creating cross platform integrations for CMS systems.
+- 🌱 I’m currently learning Angular.
+- 💞️ I’m looking to collaborate on text files.
+- 📫 How to reach me alexander.bugge.stage@gmail.com
